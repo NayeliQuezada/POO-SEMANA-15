@@ -1,0 +1,17 @@
+[
+    {
+        "usuario_id": "9876543210",
+        "producto_codigo": "02",
+        "fecha": "2026-09-27"
+    },
+    {
+        "usuario_id": "9876543210",
+        "producto_codigo": "09",
+        "fecha": "2026-09-27"
+    },
+    {
+        "usuario_id": "9874561230",
+        "producto_codigo": "03",
+        "fecha": "2026-09-27"
+    }
+]

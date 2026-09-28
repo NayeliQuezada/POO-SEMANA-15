@@ -1,0 +1,37 @@
+[
+    {
+        "codigo": "01",
+        "nombre": "Locro de Papa",
+        "precio": 3.5,
+        "categoria": "Plato Tradicional",
+        "stock": 16
+    },
+    {
+        "codigo": "02",
+        "nombre": "Llapingachos",
+        "precio": 4.5,
+        "categoria": "Plato Tradicional",
+        "stock": 9
+    },
+    {
+        "codigo": "05",
+        "nombre": "Bolón de Verde",
+        "precio": 2.5,
+        "categoria": "Desayuno",
+        "stock": 28
+    },
+    {
+        "codigo": "09",
+        "nombre": "Cuy con Papas",
+        "precio": 10.5,
+        "categoria": "Plato tradicional",
+        "stock": 40
+    },
+    {
+        "codigo": "03",
+        "nombre": "Sanduche",
+        "precio": 1.55,
+        "categoria": "Desayuno",
+        "stock": 10
+    }
+]

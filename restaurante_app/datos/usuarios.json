@@ -1,0 +1,20 @@
+[
+    {
+        "identificacion": "0123456789",
+        "nombre": "Ana Reyes",
+        "usuario": "anarey",
+        "contraseña": "01234"
+    },
+    {
+        "identificacion": "9876543210",
+        "nombre": "John Lopez",
+        "usuario": "jlopez",
+        "contraseña": "56789"
+    },
+    {
+        "identificacion": "9874561230",
+        "nombre": "Cecilia Fuentes",
+        "usuario": "cecifue",
+        "contraseña": "01234"
+    }
+]
